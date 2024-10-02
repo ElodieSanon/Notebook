@@ -1,0 +1,3 @@
+This repository contains several notebooks used to deepen data analysis skills as part of the Training course on data analysis for genomic surveillance of African malaria vectors, developed jointly by MalariaGEN and PAMCA.
+he notebooks included here are extensions of those provided as part of the course, with specific additions to meet the needs of more advanced analyses or customized projects. The aim is to provide a better understanding of the concepts covered during the course and to apply these methods to real data relating to the genomic surveillance of malaria vectors in Africa.
+Each notebook has been clearly named to reflect its content
